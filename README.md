@@ -1,6 +1,8 @@
-# Diabetes_Web_Prediction
+# Diabetes Prediction Random Forest Classifier deployed on Heroku
 
-Diabetes Prediction Website deployed using Heroku
+Diabetes Prediction Website deployed using Heroku <br>
+
+Making prediction on diabetes using Random Forest Classifier
 
 https://floating-sands-59389.herokuapp.com
 
